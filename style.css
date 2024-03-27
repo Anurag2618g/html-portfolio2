@@ -1,0 +1,33 @@
+#footer h2 {
+    text-align: center;
+}
+#home img {
+    border-radius: 50%;
+}
+#footer a {
+    color: white;
+}
+#footer h2  {
+    color: white;
+}
+#footer p {
+    color: white;
+}
+#home h1 {
+    font-family: "Sacramento", cursive;
+    font-size: 5.625rem;
+}
+#home p {
+    font-family: "Montserrat", sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+#home{
+    background-image: url(./assests/1811576.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#skills {
+    background-color: rgb(221, 226, 235);
+}
